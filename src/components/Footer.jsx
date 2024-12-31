@@ -2,13 +2,14 @@ import React from 'react'
 import { FaFacebookSquare } from "react-icons/fa";
 import { FaSquareInstagram } from "react-icons/fa6";
 import "../styles/footer.scss"
+import Moving from './Moving';
 
 
 const Footer = () => {
   return (
     <div className='footer-main'>
       <div className='footer-one'>
-        footer-one
+       <Moving />
       </div>
      <div className='footer-two'>
         <div className='footer-two-one'>

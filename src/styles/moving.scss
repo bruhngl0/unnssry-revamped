@@ -1,0 +1,52 @@
+
+
+
+
+/* InfiniteScroll.css */
+.scroll-container {
+    width: 100%;
+
+    background: #000;
+    overflow: hidden;
+    position: relative;
+  }
+  
+  .scroll-text {
+    display: flex;
+    width: fit-content;
+    animation: scroll 40s linear infinite;
+    color: white;
+  }
+  
+  .text-content {
+    display: flex;
+    white-space: nowrap;
+  }
+  
+  .text-content span {
+    display: inline-block;
+    padding: 0 20px;
+    font-size: 16px;
+    font-weight: 600;
+    text-transform: uppercase;
+  }
+  
+  @keyframes scroll {
+    0% {
+      transform: translateX(0);
+    }
+    100% {
+      /* Adjust this value based on your content width */
+      transform: translateX(-50%);
+    }
+  }
+  
+  /* Optional: Pause animation on hover */
+  .scroll-container:hover .scroll-text {
+    animation-play-state: paused;
+  }
+  
+  /* Optional: For better performance */
+  .scroll-text {
+    will-change: transform;
+  }

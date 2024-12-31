@@ -45,3 +45,26 @@
    margin-bottom: 30px;
    border-radius: 50px;
  }
+
+
+
+@media screen and (max-width: 500px) {
+  .content-overlay{
+   display: none;
+  }
+
+  .content-container {
+    position: relative;
+    width: auto;
+    height: 80vh; // Container height set to 80vh
+    overflow: hidden; // Prevents image from spilling out
+  }
+
+  .content-image {
+    width: 100%;
+    height: 100%;
+    object-fit:cover ; // Makes image cover the container while maintaining aspect ratio
+    object-position: center;
+    
+  }
+ }

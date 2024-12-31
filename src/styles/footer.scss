@@ -11,6 +11,9 @@
     height: 7vh;
     border-bottom: 0.5px solid gray;
     background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .footer-two{
@@ -192,3 +195,11 @@
    }
 }
 
+
+
+@media screen and (max-width: 500px) {
+    .footer-main{
+     display: none;
+    }
+   }
+ 
