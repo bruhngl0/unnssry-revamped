@@ -14,7 +14,7 @@ import pant7 from "../../public/pants/y2.png"
 import pant8 from "../../public/pants/pantss1.png"
 
 import pant9 from "../../public/pants/pantss3.png"
-import pant10 from "../../public/pants/Pantss2.png"
+import pant10 from "../../public/pants/pantss2.png"
 import pant11 from "../../public/pants/Pantsss2.png"
 import pant12 from "../../public/pants/Pantsss3.png"
 
