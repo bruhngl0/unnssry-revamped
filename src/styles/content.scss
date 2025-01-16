@@ -50,7 +50,7 @@
 
 @media screen and (max-width: 500px) {
   .content-overlay{
-   display: none;
+  
   }
 
   .content-container {
@@ -66,5 +66,31 @@
     object-fit:cover ; // Makes image cover the container while maintaining aspect ratio
     object-position: center;
     
+  }
+
+  .content-description {
+    color: white;
+    font-size: 14px;
+    font-weight: 900;
+    text-align: left;
+    max-width: 70%;  // Prevents text from crowding the button
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+ 
+    top: 30%;
+    display: none;
+  }
+  
+  .content-button {
+    background: white;
+    color: black;
+    border: none;
+    font-size: 10px;
+    padding: 5px 5px;
+    text-transform: uppercase;
+    font-weight: 600;
+    cursor: pointer;
+    margin-left: auto;  // Pushes button to the right
+   top: 30%;
+    border-radius: 50px;
   }
  }
