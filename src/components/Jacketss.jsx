@@ -90,7 +90,18 @@ const Jacketss = () => {
 
   return (
     <>
-    <div className='header-cover'></div>
+    <div className='header-cover'>
+   
+    </div>
+    <div className='back-btn'>
+    <button 
+            className="back-btn1"
+            onClick={() => window.history.back()}
+          >
+            ← BACK
+    </button>
+    </div>
+    
      <CardJackets props={jacketSetOne}/>
      <CardJackets props= {jacketSetTwo}/>
      <CardJackets props= {jacketSetThree}/>

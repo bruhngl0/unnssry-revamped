@@ -99,6 +99,15 @@ const Pants = () => {
   return (
     <>
     <div className='header-cover'></div>
+    <div className='back-btn'>
+    <button 
+            className="back-btn1"
+            onClick={() => window.history.back()}
+          >
+            ← BACK
+    </button>
+    </div>
+  
      <CardPants props={pantSetOne}/>
      <CardPants props= {pantSetTwo}/>
      <CardPants props= {pantSetThree}/>

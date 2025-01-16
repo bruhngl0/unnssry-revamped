@@ -19,7 +19,7 @@ const CardJackets = (data) => {
             <img src = {data.props[0].image}  className='cardPantjacket-image'/>
            </div>
 
-           <div className='card-des'>
+           <div className='cardjacket-des'>
            <p>{data.props[0].name} <br/> {data.props[0].price}</p>
            </div>
         </div>

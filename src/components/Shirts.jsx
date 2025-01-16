@@ -91,6 +91,14 @@ const Shirts = () => {
   return (
     <>
     <div className='header-cover'></div>
+    <div className='back-btn'>
+    <button 
+            className="back-btn1"
+            onClick={() => window.history.back()}
+          >
+            ← BACK
+    </button>
+    </div>
      <CardShirts props={shirtSetOne}/>
      <CardShirts props= {shirtSetTwo}/>
      <CardShirts props= {shirtSetThree}/>

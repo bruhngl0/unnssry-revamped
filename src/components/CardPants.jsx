@@ -4,10 +4,11 @@ import "../styles/cardjacket.scss"
 const CardPants = (data) => {
     console.log(data.props)
   return (
+
     <div className='cardjacket-main'>
         <div className='cardjacket-container'>
-           <div className='cardjakcet-image-div'>
-            <div className='cardjacket-top-left-absolute'>
+           <div className='cardjacket-image-div'>
+           <div className='cardjacket-top-left-absolute'>
                 <div className='cardjacket-top-left-absolute-one'>
                    <p>UNISEX</p>
                 </div>
@@ -20,7 +21,8 @@ const CardPants = (data) => {
            </div>
 
            <div className='cardjacket-des'>
-           <p>{data.props[0].name} <br/> {data.props[0].price}</p>
+            <p>{data.props[0].name} <br/> {data.props[0].price}</p>
+            
            </div>
         </div>
 
