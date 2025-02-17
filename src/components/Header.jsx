@@ -6,8 +6,8 @@ const Header = () => {
   return (
     <div className='header-main'>
         <div className='header-left'>
-          <Link path to = "/">
-            UNNSSRY
+          <Link path to = "/" className='img-head'>
+            <img src = "unnecessary.png"  className='img-head'/>
             </Link>
         </div>
         <div className='header-mid'>  
