@@ -21,7 +21,7 @@ const Card = () => {
               <img src="thirtynine.png" className='card-image' alt="Product" style={{ transform: 'scale(1.2)', }}/>
             </div>
             <div className='card-des'>
-              <p>CHARCOAL GRAY PINNACLE PANTS <br />4000K</p>
+              <p>CHARCOAL GRAY PANTS <br />4000K</p>
             </div>
           </div>
 
@@ -75,7 +75,7 @@ const Card = () => {
               <img src="fifteen.png" className='card-image' alt="Product" style={{ transform: 'scale(1.2)', }} />
             </div>
             <div className='card-des'>
-              <p>MIDNIGHT EXPIDITION CARGO PANTS<br />4000</p>
+              <p>MIDNIGHT EXPIDITION<br />4000</p>
             </div>
           </div>
         </div>

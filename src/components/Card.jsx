@@ -38,7 +38,7 @@ const Card = () => {
               <img src="fiftyfive.png" className='card-image' alt="Product" />
             </div>
             <div className='card-des'>
-              <p>MIDNIGHT TEXTURED SHIRT <br />4000</p>
+              <p>MIDNIGHT SHIRT <br />4000</p>
             </div>
           </div>
         </div>
@@ -75,7 +75,7 @@ const Card = () => {
               <img src="twentyfour.png" className='card-image' alt="Product" />
             </div>
             <div className='card-des'>
-              <p>IVORY STRIPE RUGBY POLO <br />4000</p>
+              <p>IVORY STRIPE POLO <br />4000</p>
             </div>
           </div>
         </div>
