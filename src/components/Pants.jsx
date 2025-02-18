@@ -46,51 +46,51 @@ import pant24 from "../../public/pants/pa11.png"
 const Pants = () => {
 
     const pantSetOne = [
-        {name: "SLATE SHADOW CARGO PANTS" , image: pant1 , price: "4000", description: "life is good"},
-        {name: "SAND DUNE CARGO PANTS" , image: pant2, price: "4000", description: "life is good"},
-        {name: "DESERT EXPLORER SUEDE UTILITY PANTS" , image: pant3, price: "4000", description: "life is good"},
-        {name: "CHARCOAL MINE SUEDE UTILITY PANTS" , image: pant4, price: "4000", description: "life is good"},
+        {name: "SLATE SHADOW CARGO PANTS" , image: pant1 , price: "7500", description: "life is good"},
+        {name: "SAND DUNE CARGO PANTS" , image: pant2, price: "7500", description: "life is good"},
+        {name: "DESERT EXPLORER SUEDE UTILITY PANTS" , image: pant3, price: "7500", description: "life is good"},
+        {name: "CHARCOAL MINE SUEDE UTILITY PANTS" , image: pant4, price: "7500", description: "life is good"},
     ]
 
 
     const pantSetTwo = [
-        {name: "LAVENDER FEILD SUEDE UTILITY PANTS" , image: pant5, price: "4000", description: "life is good"},
-        {name: "MUSTARD SEED CARGO PANTS" , image: pant6, price: "4000", description: "life is good"},
-        {name: "MIDNIGHT BLACK CARGO PANTS" , image: pant7, price: "4000", description: "life is good"},
-        {name: "TALE BLUE LAYERED POCKET TROUSERS" , image: pant8, price: "4000", description: "life is good"},
+        {name: "LAVENDER FEILD SUEDE UTILITY PANTS" , image: pant5, price: "7500", description: "life is good"},
+        {name: "MUSTARD SEED CARGO PANTS" , image: pant6, price: "7500", description: "life is good"},
+        {name: "MIDNIGHT BLACK CARGO PANTS" , image: pant7, price: "7500", description: "life is good"},
+        {name: "TALE BLUE LAYERED POCKET TROUSERS" , image: pant8, price: "7500", description: "life is good"},
     ]
 
 
 
     const pantSetThree = [
-        {name: "CRISP WHITE LAYERED POCKET TROUSERS" , image: pant9, price: "4000", description: "life is good"},
-        {name: "PITCH DARK LAYERED POCKET TROUSERS" , image: pant10, price: "4000", description: "life is good"},
-        {name: "FOREST RANGER CARGO PANTS" , image: pant11, price: "4000", description: "life is good"},
-        {name: "IVORY EXPIDITION CARGO PANTS" , image: pant12, price: "4000", description: "life is good"},
+        {name: "CRISP WHITE LAYERED POCKET TROUSERS" , image: pant9, price: "7500", description: "life is good"},
+        {name: "PITCH DARK LAYERED POCKET TROUSERS" , image: pant10, price: "7500", description: "life is good"},
+        {name: "FOREST RANGER CARGO PANTS" , image: pant11, price: "7500", description: "life is good"},
+        {name: "IVORY EXPIDITION CARGO PANTS" , image: pant12, price: "7500", description: "life is good"},
     ]
 
 
     const pantSetFour = [
-        {name: "MIDNIGHT EXPIDITION CARGO PANTS" , image: pant13, price: "4000", description: "life is good"},
-        {name: "COFFEE BROWN UTILITY TROUSERS" , image: pant14, price: "4000", description: "life is good"},
-        {name: "GHOST WHITE UTILITY TROUSERS" , image: pant15, price: "4000", description: "life is good"},
-        {name: "MIDNIGHT BLACK UTILITY TROUSERS" , image: pant16, price: "4000", description: "life is good"},
+        {name: "MIDNIGHT EXPIDITION CARGO PANTS" , image: pant13, price: "7500", description: "life is good"},
+        {name: "COFFEE BROWN UTILITY TROUSERS" , image: pant14, price: "7500", description: "life is good"},
+        {name: "GHOST WHITE UTILITY TROUSERS" , image: pant15, price: "7500", description: "life is good"},
+        {name: "MIDNIGHT BLACK UTILITY TROUSERS" , image: pant16, price: "7500", description: "life is good"},
     ]
 
 
     const pantSetFive = [
-        {name: "MUSTARD CASUAL BUTTON TROUSERS" , image: pant17, price: "4000", description: "life is good"},
-        {name: "BLACK CASUAL BUTTON TROUSERS" , image: pant18, price: "4000", description: "life is good"},
-        {name: "NOCTURNAL 10 POCKET PARADE" , image: pant19, price: "4000", description: "life is good"},
-        {name: "METROPOLITAN TROUSERS" , image: pant20, price: "4000", description: "life is good"},
+        {name: "MUSTARD CASUAL BUTTON TROUSERS" , image: pant17, price: "7500", description: "life is good"},
+        {name: "BLACK CASUAL BUTTON TROUSERS" , image: pant18, price: "7500", description: "life is good"},
+        {name: "NOCTURNAL 10 POCKET PARADE" , image: pant19, price: "7500", description: "life is good"},
+        {name: "METROPOLITAN TROUSERS" , image: pant20, price: "7500", description: "life is good"},
     ]
 
 
     const pantSetSix = [
-        {name: "AEGEAN TIDAL TROUSERS" , image: pant21, price: "4000", description: "life is good"},
-        {name: "CHARCOAL GRAY PINNACLE PANTS" , image: pant22, price: "4000", description: "life is good"},
-        {name: "PANAROMIC PORTHOLE PANTS" , image: pant23, price: "4000", description: "life is good"},
-        {name: "ECLIPSE RIPPED JEANS" , image: pant24, price: "4000", description: "life is good"},
+        {name: "AEGEAN TIDAL TROUSERS" , image: pant21, price: "7500", description: "life is good"},
+        {name: "CHARCOAL GRAY PINNACLE PANTS" , image: pant22, price: "7500", description: "life is good"},
+        {name: "PANAROMIC PORTHOLE PANTS" , image: pant23, price: "7500", description: "life is good"},
+        {name: "ECLIPSE RIPPED JEANS" , image: pant24, price: "7500", description: "life is good"},
     ]
 
 

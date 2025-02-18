@@ -43,43 +43,43 @@ import jacket20 from "../../public/jackets/Sweater2.png"
 const Jacketss = () => {
 
     const jacketSetOne = [
-        {name: "DESERT QUILTED BOMBER" , image: jacket1 , price: "4000", description: "life is good"},
-        {name: "MIDNIGHT QUILTED BOMBER" , image: jacket2, price: "4000", description: "life is good"},
-        {name: "CLOUD QUILTED BOMBER" , image: jacket3, price: "4000", description: "life is good"},
-        {name: "OLIVE/BLEACH BLOCKED PUFFER" , image: jacket4, price: "4000", description: "life is good"},
+        {name: "DESERT QUILTED BOMBER" , image: jacket1 , price: "10,000", description: "life is good"},
+        {name: "MIDNIGHT QUILTED BOMBER" , image: jacket2, price: "10,000", description: "life is good"},
+        {name: "CLOUD QUILTED BOMBER" , image: jacket3, price: "10,000", description: "life is good"},
+        {name: "OLIVE/BLEACH BLOCKED PUFFER" , image: jacket4, price: "10,000", description: "life is good"},
     ]
 
 
     const jacketSetTwo = [
-        {name: "GRAPHITE/SLATE BLOCKED PUFFER" , image: jacket5, price: "4000", description: "life is good"},
-        {name: "IVORY POCKET GILET" , image: jacket6, price: "4000", description: "life is good"},
-        {name: "COMMANDO POCKET GILET" , image: jacket7, price: "4000", description: "life is good"},
-        {name: "MIDNIGHT POCKET GILET" , image: jacket8, price: "4000", description: "life is good"},
+        {name: "GRAPHITE/SLATE BLOCKED PUFFER" , image: jacket5, price: "10,000", description: "life is good"},
+        {name: "IVORY POCKET GILET" , image: jacket6, price: "10,000", description: "life is good"},
+        {name: "COMMANDO POCKET GILET" , image: jacket7, price: "10,000", description: "life is good"},
+        {name: "MIDNIGHT POCKET GILET" , image: jacket8, price: "10,000", description: "life is good"},
     ]
 
 
 
     const jacketSetThree = [
-        {name: "SAFARI POCKET GILET" , image: jacket9, price: "4000", description: "life is good"},
-        {name: "FROST WHISPER PUFFER" , image: jacket10, price: "4000", description: "life is good"},
-        {name: "OLIVE HUSH PUFFER" , image: jacket11, price: "4000", description: "life is good"},
-        {name: "TWILIGHT INSULATED PUFFER" , image: jacket12, price: "4000", description: "life is good"},
+        {name: "SAFARI POCKET GILET" , image: jacket9, price: "10,000", description: "life is good"},
+        {name: "FROST WHISPER PUFFER" , image: jacket10, price: "10,000", description: "life is good"},
+        {name: "OLIVE HUSH PUFFER" , image: jacket11, price: "10,000", description: "life is good"},
+        {name: "TWILIGHT INSULATED PUFFER" , image: jacket12, price: "10,000", description: "life is good"},
     ]
 
 
     const jacketSetFour = [
-        {name: "MIDNIGHT POISE PUFFER" , image: jacket13, price: "4000", description: "life is good"},
-        {name: "BLUSH FROST PUFFER" , image: jacket14, price: "4000", description: "life is good"},
-        {name: "MIDNIGHT KNIT SWEATER" , image: jacket15, price: "4000", description: "life is good"},
-        {name: "SAND KNIT SWEATER" , image: jacket16, price: "4000", description: "life is good"},
+        {name: "MIDNIGHT POISE PUFFER" , image: jacket13, price: "10,000", description: "life is good"},
+        {name: "BLUSH FROST PUFFER" , image: jacket14, price: "10,000", description: "life is good"},
+        {name: "MIDNIGHT KNIT SWEATER" , image: jacket15, price: "10,000", description: "life is good"},
+        {name: "SAND KNIT SWEATER" , image: jacket16, price: "10,000", description: "life is good"},
     ]
 
 
     const jacketSetFive = [
-        {name: "ECLIPSE MESH PONCHO" , image: jacket17, price: "4000", description: "life is good"},
-        {name: "DESERT MESH PONCHO" , image: jacket18, price: "4000", description: "life is good"},
-        {name: "OLIVE FRAYED SWEATER" , image: jacket19, price: "4000", description: "life is good"},
-        {name: "NOIR FRAYED SWEATER" , image: jacket20, price: "4000", description: "life is good"},
+        {name: "ECLIPSE MESH PONCHO" , image: jacket17, price: "10,000", description: "life is good"},
+        {name: "DESERT MESH PONCHO" , image: jacket18, price: "10,000", description: "life is good"},
+        {name: "OLIVE FRAYED SWEATER" , image: jacket19, price: "10,000", description: "life is good"},
+        {name: "NOIR FRAYED SWEATER" , image: jacket20, price: "10,000", description: "life is good"},
     ]
 
 

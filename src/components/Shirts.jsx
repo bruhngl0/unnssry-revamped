@@ -43,43 +43,43 @@ import shirt20 from "../../public/jackets/Sweater2.png"
 const Shirts = () => {
 
     const shirtSetOne = [
-        {name: "PITCH DARK CHAIN SHIRT" , image: shirt1 , price: "4000", description: "life is good"},
-        {name: "COMMANDO OLIVE CHAIN SHIRT" , image: shirt2, price: "4000", description: "life is good"},
-        {name: "STREET GHOST CHAIN SHIRT" , image: shirt3, price: "4000", description: "life is good"},
-        {name: "MATRIX CHECK SHIRT" , image: shirt4, price: "4000", description: "life is good"},
+        {name: "PITCH DARK CHAIN SHIRT" , image: shirt1 , price: "5000", description: "life is good"},
+        {name: "COMMANDO OLIVE CHAIN SHIRT" , image: shirt2, price: "5000", description: "life is good"},
+        {name: "STREET GHOST CHAIN SHIRT" , image: shirt3, price: "5000", description: "life is good"},
+        {name: "MATRIX CHECK SHIRT" , image: shirt4, price: "5000", description: "life is good"},
     ]
 
 
     const shirtSetTwo = [
-        {name: "MONOCHROME CHECK SHIRT" , image: shirt5, price: "4000", description: "life is good"},
-        {name: "IVORY TEXTURED SHIRT" , image: shirt6, price: "4000", description: "life is good"},
-        {name: "MIDNIGHT TEXTURED SHIRT" , image: shirt7, price: "4000", description: "life is good"},
-        {name: "EMERALD TEXTURED SHIRT" , image: shirt8, price: "4000", description: "life is good"},
+        {name: "MONOCHROME CHECK SHIRT" , image: shirt5, price: "5000", description: "life is good"},
+        {name: "IVORY TEXTURED SHIRT" , image: shirt6, price: "5000", description: "life is good"},
+        {name: "MIDNIGHT TEXTURED SHIRT" , image: shirt7, price: "5000", description: "life is good"},
+        {name: "EMERALD TEXTURED SHIRT" , image: shirt8, price: "5000", description: "life is good"},
     ]
 
 
 
     const shirtSetThree = [
-        {name: "MAUVE SUEDE SHAKET" , image: shirt9, price: "4000", description: "life is good"},
-        {name: "CHARCOAL SUEDE SHAKET" , image: shirt10, price: "4000", description: "life is good"},
-        {name: "MAUVE SUEDE SHIRT" , image: shirt11, price: "4000", description: "life is good"},
-        {name: "CHARCOAL POCKET SHIRT" , image: shirt12, price: "4000", description: "life is good"},
+        {name: "MAUVE SUEDE SHAKET" , image: shirt9, price: "5000", description: "life is good"},
+        {name: "CHARCOAL SUEDE SHAKET" , image: shirt10, price: "5000", description: "life is good"},
+        {name: "MAUVE SUEDE SHIRT" , image: shirt11, price: "5000", description: "life is good"},
+        {name: "CHARCOAL POCKET SHIRT" , image: shirt12, price: "5000", description: "life is good"},
     ]
 
 
     const shirtSetFour = [
-        {name: "FOREST GREEN POCKET SHIRT" , image: shirt13, price: "4000", description: "life is good"},
-        {name: "IVORY STRIPE RUGBY POLO" , image: shirt14, price: "4000", description: "life is good"},
-        {name: "SLATE STRIPE RUGBY POLO" , image: shirt15, price: "4000", description: "life is good"},
-        {name: "CUSTORY CORDUROY HOODIE" , image: shirt16, price: "4000", description: "life is good"},
+        {name: "FOREST GREEN POCKET SHIRT" , image: shirt13, price: "5000", description: "life is good"},
+        {name: "IVORY STRIPE RUGBY POLO" , image: shirt14, price: "5000", description: "life is good"},
+        {name: "SLATE STRIPE RUGBY POLO" , image: shirt15, price: "5000", description: "life is good"},
+        {name: "CUSTORY CORDUROY HOODIE" , image: shirt16, price: "5000", description: "life is good"},
     ]
 
 
     const shirtSetFive = [
-        {name: "MIDNIGHT CORDUROY HOODIE" , image: shirt17, price: "4000", description: "life is good"},
-        {name: "PLUMHAZE CORDUROY HOODIE" , image: shirt18, price: "4000", description: "life is good"},
-        {name: "OLIVE FRAYED SWEATER" , image: shirt19, price: "4000", description: "life is good"},
-        {name: "NOIR FRAYED SWEATER" , image: shirt20, price: "4000", description: "life is good"},
+        {name: "MIDNIGHT CORDUROY HOODIE" , image: shirt17, price: "5000", description: "life is good"},
+        {name: "PLUMHAZE CORDUROY HOODIE" , image: shirt18, price: "5000", description: "life is good"},
+        {name: "OLIVE FRAYED SWEATER" , image: shirt19, price: "5000", description: "life is good"},
+        {name: "NOIR FRAYED SWEATER" , image: shirt20, price: "5000", description: "life is good"},
     ]
 
 
