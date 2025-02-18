@@ -21,7 +21,7 @@ const Card = () => {
               <img src="nine.png" className='card-image' alt="Product" style={{ transform: 'scale(1.2)', }}/>
             </div>
             <div className='card-des'>
-              <p>COMMANDO OLIVE SHIRT<br />4000</p>
+              <p>COMMANDO OLIVE SHIRT</p>
             </div>
           </div>
 
@@ -38,7 +38,7 @@ const Card = () => {
               <img src="one.png" className='card-image' alt="Product" style={{ transform: 'scale(1.2)', }}/>
             </div>
             <div className='card-des'>
-              <p>NOCTURNAL 10PARADE<br />4000</p>
+              <p>NOCTURNAL 10PARADE</p>
             </div>
           </div>
         </div>
@@ -58,7 +58,7 @@ const Card = () => {
               <img src="thirtyone.png" className='card-image' alt="Product" style={{ transform: 'scale(1.2)', }}/>
             </div>
             <div className='card-des'>
-              <p>ECLIPSE RIPPED JEANS <br />4000</p>
+              <p>ECLIPSE RIPPED JEANS </p>
             </div>
           </div>
 
@@ -75,7 +75,7 @@ const Card = () => {
               <img src="thirtynine.png" className='card-image' alt="Product" style={{ transform: 'scale(1.2)', }}/>
             </div>
             <div className='card-des'>
-              <p>CHARCOAL GRAY  PANTS<br />4000</p>
+              <p>CHARCOAL GRAY  PANTS</p>
             </div>
           </div>
         </div>

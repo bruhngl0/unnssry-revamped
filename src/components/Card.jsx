@@ -21,7 +21,7 @@ const Card = () => {
               <img src="thirtytwo.png" className='card-image' alt="Product" />
             </div>
             <div className='card-des'>
-              <p>SAFARI POCKET GILET <br />4000</p>
+              <p>SAFARI POCKET GILET </p>
             </div>
           </div>
 
@@ -38,7 +38,7 @@ const Card = () => {
               <img src="fiftyfive.png" className='card-image' alt="Product" />
             </div>
             <div className='card-des'>
-              <p>MIDNIGHT SHIRT <br />4000</p>
+              <p>MIDNIGHT SHIRT </p>
             </div>
           </div>
         </div>
@@ -58,7 +58,7 @@ const Card = () => {
               <img src="twenty.png" className='card-image' alt="Product" />
             </div>
             <div className='card-des'>
-              <p>NOIR FRAYED SWEATER <br />4000</p>
+              <p>NOIR FRAYED SWEATER </p>
             </div>
           </div>
 
@@ -75,7 +75,7 @@ const Card = () => {
               <img src="twentyfour.png" className='card-image' alt="Product" />
             </div>
             <div className='card-des'>
-              <p>IVORY STRIPE POLO <br />4000</p>
+              <p>IVORY STRIPE POLO </p>
             </div>
           </div>
         </div>

@@ -21,7 +21,7 @@ const CardPants = (data) => {
            </div>
 
            <div className='cardjacket-des'>
-            <p>{data.props[0].name} <br/> {data.props[0].price}</p>
+            <p>{data.props[0].name} </p>
             
            </div>
         </div>
@@ -41,7 +41,7 @@ const CardPants = (data) => {
            </div>
 
            <div className='cardjacket-des'>
-           <p>{data.props[1].name} <br/> {data.props[1].price}</p>
+           <p>{data.props[1].name} </p>
            </div>
         </div>
 
@@ -60,7 +60,7 @@ const CardPants = (data) => {
            </div>
 
            <div className='cardjacket-des'>
-           <p>{data.props[2].name} <br/> {data.props[2].price}</p>
+           <p>{data.props[2].name}</p>
            </div>
         </div>
 
@@ -79,7 +79,7 @@ const CardPants = (data) => {
            </div>
 
            <div className='cardjacket-des'>
-            <p>{data.props[3].name} <br/> {data.props[3].price}</p>
+            <p>{data.props[3].name} </p>
             
            </div>
         </div>
