@@ -18,10 +18,10 @@ const Card = () => {
                   <p>NEW</p>
                 </div>
               </div>
-              <img src="thirtytwo.png" className='card-image' alt="Product" />
+              <img src="thirtynine.png" className='card-image' alt="Product" style={{ transform: 'scale(1.2)', }}/>
             </div>
             <div className='card-des'>
-              <p>SAFARI POCKET GILET <br />4000</p>
+              <p>CHARCOAL GRAY PINNACLE PANTS <br />4000K</p>
             </div>
           </div>
 
@@ -35,10 +35,10 @@ const Card = () => {
                   <p>NEW</p>
                 </div>
               </div>
-              <img src="fiftyfive.png" className='card-image' alt="Product" />
+              <img src="twentyone.png" className='card-image' alt="Product" style={{ transform: 'scale(1.2)', }}/>
             </div>
             <div className='card-des'>
-              <p>MIDNIGHT TEXTURED SHIRT <br />4000</p>
+              <p>IVORY TEXTURED SHIRT <br />4000</p>
             </div>
           </div>
         </div>
@@ -55,10 +55,10 @@ const Card = () => {
                   <p>NEW</p>
                 </div>
               </div>
-              <img src="twenty.png" className='card-image' alt="Product" />
+              <img src="seventeen.png" className='card-image' alt="Product" style={{ transform: 'scale(1.2)', }} />
             </div>
             <div className='card-des'>
-              <p>NOIR FRAYED SWEATER <br />4000</p>
+              <p>SAND KNIT SWEATER <br />4000</p>
             </div>
           </div>
 
@@ -72,10 +72,10 @@ const Card = () => {
                   <p>NEW</p>
                 </div>
               </div>
-              <img src="twentyfour.png" className='card-image' alt="Product" />
+              <img src="fifteen.png" className='card-image' alt="Product" style={{ transform: 'scale(1.2)', }} />
             </div>
             <div className='card-des'>
-              <p>IVORY STRIPE RUGBY POLO <br />4000</p>
+              <p>MIDNIGHT EXPIDITION CARGO PANTS<br />4000</p>
             </div>
           </div>
         </div>
